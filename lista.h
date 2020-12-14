@@ -24,7 +24,7 @@ class lista{
 	public:
 	//pos: inicializa la lista con 0 elementos
 	lista();
-	//pos : devuelve el primer nodo
+	//pos : devuelve el primer nodo en la lista
 	nodo<T>* obtenerPrimerNodo();
 	//pos : obtiene puntero siguiente
 	lista<T>* obtenerSigLista();
